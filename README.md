@@ -13,6 +13,6 @@
 
 | Day   | Project     | Stars(retro?) | Time spent? | Tech |Comments|
 |-------|-------------|---------------|-------------|------|--------|
-| Day 1 | Granite SSG |               |             |      |        |
-| Day 2 |  |               |             |      |        |
+| Day 1 2022/02/08 | [🗻Granite SSG](https://github.com/kolism/Granite)| 0 |   2hrs        |Node, ejs, front-matter, marked             | 4kb code size @ [Demo](https://granite.vercel.app/) |
+| Day 2 2022/02/09 |  |               |             |      |        |
 | Day 3 |  |               |             |      |        |
