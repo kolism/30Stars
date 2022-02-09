@@ -13,6 +13,6 @@
 
 | Day   | Project     | Stars(retro?) | Time spent? | Tech |Comments|
 |-------|-------------|---------------|-------------|------|--------|
-| Day 1 2022/02/08 | [🗻Granite SSG](https://github.com/kolism/Granite)| 0 |   2hrs        |Node, ejs, front-matter, marked             | 4kb code size @ [Demo](https://granite.vercel.app/) |
-| Day 2 2022/02/09 |  |               |             |      |        |
-| Day 3 |  |               |             |      |        |
+| Day 1 2022/02/08 | [🗻Granite SSG](https://github.com/kolism/Granite)| 0 |   2hrs        |Node, ejs, front-matter, marked, md, css, html, js             | 4kb code size @ [Demo](https://granite.vercel.app/) |
+| Day 2 2022/02/09 | ACSSORI  |               |             |  CSS    | Drop-in CSS       |
+| Day 3 2022/02/10 | Personal Site            |             |      | ACSSORI,🗻Granite,CSS,HTML,JS      | A simple personal webpage for myself |
