@@ -14,3 +14,4 @@
 | Day   | Project     | Stars(retro?) | Time spent? | Tech |Comments|
 |-------|-------------|---------------|-------------|------|--------|
 | Day 1 | Granite SSG |               |             |      |        |
+| Day 2 |  |               |             |      |        |
