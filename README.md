@@ -5,7 +5,7 @@
 - Explore new technologies
 - Collaborate with others (where possible)
 - Improve system design decisions
-- Continue making beautiful/functional UI/UX 
+- Continue making beautiful/functional UI/UX (this may be tricky given the 1-day time limit! UIs take time! Maybe on the weekends?)
 - Get better at markdown/mdx writing, because why not
 - Have some fun
 
@@ -40,4 +40,9 @@
 | Day 29x | IPFS exlore    |       0      |      |    |  |
 | Day 29x | OSS Contribs    |       0      |      |    |  |
 | Day 29x | Verilog, veripool, verilator?    |       0      |      |    |  |
+| Day 29x | fractal generator - mandelsphere web   |       0      |      |    |  |
+| Day 29x | Terraform   |       0      |      |    |  |
+| Day 29x | AWS   |       0      |      |    |  |
+| Day 29x | Docker/Kubernetes   |       0      |      |    |  |
+| Day 29x | Kotlin   |       0      |      |    |  |
 | Day 30 2022/03/08 | Personal Site   (NUXT)          |       0      |      | Nuxt      | A simple personal webpage for myself |
