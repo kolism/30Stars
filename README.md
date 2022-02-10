@@ -14,9 +14,8 @@
 | Day   | Project     | Stars(retro?) | Time spent? | Tech |Comments|
 |-------|-------------|---------------|-------------|------|--------|
 | Day 1 2022/02/08 | [🗻Granite SSG](https://github.com/kolism/Granite)| 0 |   2hrs        |Node, ejs, front-matter, marked, md, css, html, js             | 4kb code size @ [Demo](https://granite.vercel.app/) |
-| Day 2 2022/02/09 | [🎀ACSSORI](https://github.com/kolism/ACSSORI)  |      0         |     4.5hrs        |  GULP, CSS, HTML   | Drop-in CSS [Demo](https://acssori.vercel.app/)      |
-| Day 3 2022/02/10 | Personal Site            |       0      |      | ACSSORI,🗻Granite,CSS,HTML,JS,YML(Github actions)      | A simple personal webpage for myself |
-| Day 4 2022/02/11 | React bundled emails            |    0         |      | ReactJS, Email      | |
+| Day 2 2022/02/09 | [🎀ACSSORI](https://github.com/kolism/ACSSORI)  |      0         |     4.5hrs        |  GULP, CSS, HTML, YML(Github actions)   | Drop-in CSS [Demo](https://acssori.vercel.app/)      |
+| Day 3 2022/02/10 | React bundled emails            |    0         |      | ReactJS, Email      | |
 | Day 5 2022/02/12 | Dynamic Programming algos            |     0        |      | Python?      | |
 | Day 6 2022/02/13 | Flutter app (tbd)        |       0      |      | Flutter,JS      | |
 | Day 7 2022/02/14 | Firebase/Supabase web-app (tbd)       |      0       |      | Firebase,JS      | |
@@ -24,3 +23,4 @@
 | Day 9 2022/02/16 | Remote logger, parser, analytics       |      0       |      | Mongo?Node?      | |
 | Day 10 2022/02/17 | Daemon for folder organizing?       |      0       |      | Node + FS?      | |
 | Day 11 2022/02/18 | Chrome addon - open tab search using kbar       |      0       |      | Kbar + javascript     | |
+| Day 30 2022/03/08 | Personal Site   (NUXT)          |       0      |      | Nuxt      | A simple personal webpage for myself |
