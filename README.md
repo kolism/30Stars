@@ -45,4 +45,5 @@
 | Day 29x | AWS   |       0      |      |    |  |
 | Day 29x | Docker/Kubernetes   |       0      |      |    |  |
 | Day 29x | Kotlin   |       0      |      |    |  |
+| Day 29x | Server Rendered Templates   |       0      |      |    |  |
 | Day 30 2022/03/08 | Personal Site   (NUXT)          |       0      |      | Nuxt      | A simple personal webpage for myself |
