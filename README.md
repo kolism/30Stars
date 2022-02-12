@@ -16,7 +16,7 @@
 | Day 1 2022/02/08 | [🗻Granite SSG](https://github.com/kolism/Granite): Static Site Generator| 0 |   2hrs        |Node, ejs, front-matter, marked, md, css, html, js             | 4kb code size @ [Demo](https://granite.vercel.app/) |
 | Day 2 2022/02/09 | [🎀ACSSORI](https://github.com/kolism/ACSSORI)  |      0         |     4.5hrs        |  GULP, CSS, HTML, YML(Github actions)   | Drop-in CSS [Demo](https://acssori.vercel.app/)      |
 | Day 3 2022/02/10 | [📨empoze](https://github.com/kolism/empoze): React bundled emails            |     0        |   4.5hrs   | ReactJS,Webpack,Tailwind,CSS,HTML,Babel,Juice,Mailwind      | |
-| Day 4 2022/02/11 | [🔊Soundboard](https://github.com/kolism/empoze): Fun little soundboard for day4         |     0        |  0.5hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Soundboard/)  |
+| Day 4 2022/02/11 | [🔊Soundboard](https://github.com/kolism/Soundboard): Fun little soundboard for day4         |     0        |  0.5hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Soundboard/)  |
 | Day 5 2022/02/12 | Dynamic Programming algos            |     0        |      | Python?      | |
 | Day 6 2022/02/13 | Flutter app (tbd)        |       0      |      | Flutter,JS      | |
 | Day 7 2022/02/14 | Firebase/Supabase web-app (tbd)       |      0       |      | Firebase,JS      | |
@@ -24,7 +24,6 @@
 | Day 9 2022/02/16 | Remote logger, parser, analytics (use an append only decentralized protocol? Hyperlog?)      |      0       |      | Mongo?Node?      | |
 | Day 10 2022/02/17 | Daemon for folder organizing?       |      0       |      | Node + FS?      | |
 | Day 11 2022/02/18 | Chrome addon - open tab search using kbar       |      0       |      | Kbar + javascript     | |
-
 | Day 13 2022/02/20 | Kafka?          |       0      |      | Kafka      |  |
 | Day 14 2022/02/21 | RabbitMQ/CustomMQ?         |       0      |      | MQ      |  |
 | Day 15 2022/02/22 | MEVN/MERN Stack (SaaS for notifications?)         |       0      |      |    |  |
