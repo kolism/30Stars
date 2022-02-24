@@ -17,7 +17,8 @@
 | Day 2 2022/02/09 | [🎀ACSSORI](https://github.com/kolism/ACSSORI)  |      0         |     4.5hrs        |  GULP, CSS, HTML, YML(Github actions)   | Drop-in CSS [Demo](https://acssori.vercel.app/)      |
 | Day 3 2022/02/10 | [📨empoze](https://github.com/kolism/empoze): React bundled emails            |     0        |   4.5hrs   | ReactJS,Webpack,Tailwind,CSS,HTML,Babel,Juice,Mailwind      | |
 | Day 4 2022/02/11 | [🔊Soundboard](https://github.com/kolism/Soundboard): Fun little soundboard for day4         |     0        |  0.5hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Soundboard/)  |
-| Day 5 2022/02/12 | Dynamic Programming algos            |     0        |      | Python?      | |
+| Day 5 2022/02/24 | [🖼Gallons](https://github.com/kolism/Goundboard): Tiny interactive image gallery landing page for day5         |     0        |  1.4hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Gallons/)  |
+| Day 6 2022/02/12 | Dynamic Programming algos            |     0        |      | Python?      | |
 | Day 6 2022/02/13 | Flutter app (tbd)        |       0      |      | Flutter,JS      | |
 | Day 7 2022/02/14 | Firebase/Supabase web-app (tbd)       |      0       |      | Firebase,JS      | |
 | Day 8 2022/02/15 | THREEJS       |      0       |      | Js,Webgl,Threejs,html      | |
