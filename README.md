@@ -18,13 +18,13 @@
 | Day 3 2022/02/10 | [📨empoze](https://github.com/kolism/empoze): React bundled emails            |     0        |   4.5hrs   | ReactJS,Webpack,Tailwind,CSS,HTML,Babel,Juice,Mailwind      | |
 | Day 4 2022/02/11 | [🔊Soundboard](https://github.com/kolism/Soundboard): Fun little soundboard for day4         |     0        |  0.5hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Soundboard/)  |
 | Day 5 2022/02/24 | [🖼Gallons](https://github.com/kolism/Gallons): Tiny interactive image gallery landing page for day5         |     0        |  1.4hrs    | JS/CSS/HTML      |[Demo](https://kolism.github.io/Gallons/)  |
+| Day 6 2022/02/26 | 🍢AlphaBar](https://github.com/kolism/alphabar) Chrome/Edge addon - open tab search/web shortcuts CMD+K command bar       |      0       |  7hrs   | ReactJS,Redux,Ninja-Keys,Webext-Redux     | Alot of experiementation, checkout <a href="retro/6_alphabar_notes.md">retro notes</a>|
 | Day 6 2022/02/12 | Dynamic Programming algos            |     0        |      | Python?      | |
 | Day 6 2022/02/13 | Flutter app (tbd)        |       0      |      | Flutter,JS      | |
 | Day 7 2022/02/14 | Firebase/Supabase web-app (tbd)       |      0       |      | Firebase,JS      | |
 | Day 8 2022/02/15 | THREEJS       |      0       |      | Js,Webgl,Threejs,html      | |
 | Day 9 2022/02/16 | Remote logger, parser, analytics (use an append only decentralized protocol? Hyperlog?)      |      0       |      | Mongo?Node?      | |
 | Day 10 2022/02/17 | Daemon for folder organizing?       |      0       |      | Node + FS?      | |
-| Day 11 2022/02/18 | Chrome addon - open tab search using kbar       |      0       |      | Kbar + javascript     | |
 | Day 13 2022/02/20 | Kafka?          |       0      |      | Kafka      |  |
 | Day 14 2022/02/21 | RabbitMQ/CustomMQ?         |       0      |      | MQ      |  |
 | Day 15 2022/02/22 | MEVN/MERN Stack (SaaS for notifications?)         |       0      |      |    |  |
@@ -49,4 +49,5 @@
 | Day 29x | Hugo   |       0      |      |    |  |
 | Day 29x | Express   |       0      |      |    |  |
 | Day 29x | Server Rendered Templates   |       0      |      |    |  |
+| Day 29x | Text expander type app? Caps key?   |       0      |      |    |  |
 | Day 30 2022/03/08 | Personal Site   (NUXT)          |       0      |      | Nuxt      | A simple personal webpage for myself |
