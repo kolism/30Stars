@@ -1,6 +1,11 @@
+---
+---
+
 # ✨30 Stars
 
-Daily project contributions for 30 days. (Websites, Apps, Utils)
+Daily project contributions for 30 days. (Websites, Apps, Utils)!
+
+Each project to ultimately take <24 hours of effort.
 
 ## Goals
 
