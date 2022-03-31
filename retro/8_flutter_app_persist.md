@@ -25,7 +25,7 @@
 ## 🚧 How we built it
 
 - Started wireframing in Figma
-- Began with a simple, single page splash page with a button and went from there
+- Began with a simple, single page splash page with a button and went from there, still many TODOs
 - We leveraged shared_preferences for peristent app-wide storage
 - Widgets maintain their own ephemeral data state where applicable
 
